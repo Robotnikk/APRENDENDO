@@ -5,13 +5,13 @@ import javax.swing.JOptionPane;
 public class calculadoraMedia {
 
 	public static void main(String[] args) {
-/*
+/* :)
 		String numero1 = JOptionPane.showInputDialog("informe o numero 1");
 		String numero2 = JOptionPane.showInputDialog("informe o numero 2");
 		String numero3 = JOptionPane.showInputDialog("informe o numero 3");
 		String numero4 = JOptionPane.showInputDialog("informe o numero 4");
 
-		double numero01 = Double.parseDouble(numero1);
+		double numero01 = Double.parseDouble(numero1); 
 		double numero02 = Double.parseDouble(numero2);
 		double numero03 = Double.parseDouble(numero3);
 		double numero04 = Double.parseDouble(numero4);
