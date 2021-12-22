@@ -22,7 +22,13 @@ public class PrimeiraClasseObjAluno {
 	/*===================================================================================*/
 	
 	
-	public PrimeiraClasseObjAluno() { /* cria dados na memoria - padrão java */
+	public PrimeiraClasseObjAluno() { /* cria dados na memoria - padrão java
+	
+	
+	Para a criação vc começa digitando o nome da classe e usa o auto completar que estiver escrito
+	construtor  */
+		
+		
 		// TODO Auto-generated constructor stub
 
 	}
